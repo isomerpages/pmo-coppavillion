@@ -25,17 +25,16 @@ sections:
           url: /our-partners
       button: About the Pavilion
       url: /the-pavilion
-  - infopic:
+  - infobar:
       title: What is COP?
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      description: It is the United Nations Climate Change Conference.
+      button: About COP
+      url: /about-cop
   - infopic:
       title: Seed of Change
       description: Watch how our Garden City plants and nurtures seeds of change to
         inspire a future of possibilities around the world.
-      alt: Image alt text
+      subtitle: Video to be inserted
   - infobar:
       title: The Singapore Pavilion
       description: Explore the city-state's innovations to balance realities, local
@@ -46,4 +45,3 @@ sections:
   - resources:
       title: Media Resources
 ---
-
