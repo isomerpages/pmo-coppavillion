@@ -2,12 +2,12 @@ collections:
   green-initiatives:
     output: true
     order:
-      - Mitigation/Green Education and Community Action.md
-      - Mitigation/Green and Energy Efficient Buildings.md
-      - Mitigation/Sustainable Land, Sea and Air Transport.md
-      - Mitigation/Low Carbon Electricity Imports.md
       - Mitigation/.keep
       - Mitigation/Solar Panel Deployment.md
+      - Mitigation/Low Carbon Electricity Imports.md
+      - Mitigation/Sustainable Land, Sea and Air Transport.md
+      - Mitigation/Green and Energy Efficient Buildings.md
+      - Mitigation/Green Education and Community Action.md
       - Adaptation/.keep
       - Green Economy/.keep
       - Sustainable Finance/.keep
