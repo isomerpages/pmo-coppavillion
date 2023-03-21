@@ -7,7 +7,7 @@ links:
   - title: Daily Showcase
     url: daily-showcase
   - title: Media Resources
-    collection: example-folder
+    resource_room: true
   - title: Our Partners
     url: /our-partners
   - title: Contact Us
