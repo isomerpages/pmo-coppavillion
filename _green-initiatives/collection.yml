@@ -2,4 +2,5 @@ collections:
   green-initiatives:
     output: true
     order:
+      - Mitigation/Solar Panel Deployment.md
       - Mitigation/.keep
