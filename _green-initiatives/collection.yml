@@ -2,8 +2,8 @@ collections:
   green-initiatives:
     output: true
     order:
-      - Sustainable Finance/.keep
-      - Green Economy/.keep
-      - Adaptation/.keep
-      - Mitigation/Solar Panel Deployment.md
       - Mitigation/.keep
+      - Mitigation/Solar Panel Deployment.md
+      - Adaptation/.keep
+      - Green Economy/.keep
+      - Sustainable Finance/.keep
