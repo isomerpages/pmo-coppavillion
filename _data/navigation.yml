@@ -10,3 +10,5 @@ links:
     collection: example-folder
   - title: Our Partners
     url: /our-partners
+  - title: Contact Us
+    url: /contact-us
