@@ -11,19 +11,29 @@ sections:
       subtitle: Building a Future of Green Possibilities
       background: /images/hero-banner.png
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Programme Schedule
+          description: <insert text>
+          url: /programme-schedule
+        - title: Green Initiatives
+          description: <insert text>
+          url: /green-initiatives
+        - title: Daily Showcase
+          description: <insert text>
+          url: /daily-showcase
+        - title: Our Partners
+          description: <insert text>
+          url: /our-partners
+      button: About the Pavilion
+      url: /the-pavilion
   - infobar:
-      title: Infobar title
+      title: The Singapore Pavilion
       subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      description: Explore the city-state's innovations to balance realities, local
+        needs, and the global agenda for a low-carbon, climate-resilient
+        future.​
+      button: Enter the virtual pavilion
+      url: /the-pavilion
+  - resources:
+      title: Media Resources
+      subtitle: Resources Section Subtitle
 ---
