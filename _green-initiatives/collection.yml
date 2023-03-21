@@ -1,4 +1,5 @@
 collections:
   green-initiatives:
     output: true
-    order: []
+    order:
+      - Mitigation/.keep
