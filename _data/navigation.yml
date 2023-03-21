@@ -3,16 +3,7 @@ links:
   - title: Programme Schedule
     url: /programme-schedule
   - title: Green Initiatives
-    url: /green-initiatives
-    sublinks:
-      - title: Mitigation
-        url: /green-initiatives/mitigation
-      - title: Adaptation
-        url: /green-initiatives/adaptation
-      - title: Green Economy
-        url: /green-initiatives/green-economy
-      - title: Sustainable Finance
-        url: /green-initiatives/sustainable-finance
+    collection: example-folder
   - title: Daily Showcase
     url: daily-showcase
   - title: Media Resources
