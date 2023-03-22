@@ -1,5 +1,5 @@
 collections:
-  bio:
+  speakers-bio:
     output: true
     order:
       - Audrey Tan.md
