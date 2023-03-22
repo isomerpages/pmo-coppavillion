@@ -16,7 +16,7 @@ sections:
           url: /programme-schedule
         - title: Green Initiatives
           description: ""
-          url: /green-initiatives
+          url: /green-initiatives/mitigation/solar-panel-deployment/
         - title: Daily Showcase
           description: ""
           url: /daily-showcase
