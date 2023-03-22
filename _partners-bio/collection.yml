@@ -2,6 +2,7 @@ collections:
   partners-bio:
     output: true
     order:
+      - Terese Teoh.md
       - Dian Anderson.md
       - Liang Lei.md
       - Melissa Low.md
