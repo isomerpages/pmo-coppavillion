@@ -3,6 +3,7 @@ title: Hub of Green Possibilities
 permalink: /daily-showcase/
 description: ""
 ---
+### Hub of Green Possibilities
 
 As a low-lying city-state with an open economy, Singapore is particularly vulnerable to the impacts of climate change. Yet, this has provided us with many opportunities to innovate.
 
