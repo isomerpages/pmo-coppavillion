@@ -2,10 +2,10 @@ collections:
   partners-bio:
     output: true
     order:
-      - Woo Qiyun.md
+      - Dian Anderson.md
+      - Liang Lei.md
       - Melissa Low.md
       - Rishika Selvan.md
-      - Liang Lei.md
-      - Zihan Xuan.md
       - Swati Mandloi.md
-      - Dian Anderson.md
+      - Woo Qiyun.md
+      - Zihan Xuan.md
