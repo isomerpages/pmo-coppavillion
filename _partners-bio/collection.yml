@@ -1,0 +1,4 @@
+collections:
+  partners-bio:
+    output: true
+    order: []
