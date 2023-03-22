@@ -1,0 +1,4 @@
+collections:
+  programme-schedule:
+    output: true
+    order: []
