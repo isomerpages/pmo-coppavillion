@@ -1,4 +1,5 @@
 collections:
   partners-bio:
     output: true
-    order: []
+    order:
+      - Dian Anderson.md
