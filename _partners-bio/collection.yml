@@ -2,6 +2,7 @@ collections:
   partners-bio:
     output: true
     order:
+      - Ravi Menon.md
       - Michael Koh.md
       - Vinamra Srivastava.md
       - Kate Yeo.md
