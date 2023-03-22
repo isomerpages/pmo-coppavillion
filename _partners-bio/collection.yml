@@ -2,6 +2,7 @@ collections:
   partners-bio:
     output: true
     order:
+      - Cindy Khoo.md
       - Ravi Menon.md
       - Michael Koh.md
       - Vinamra Srivastava.md
