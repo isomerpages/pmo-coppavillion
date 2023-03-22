@@ -2,6 +2,7 @@ collections:
   partners-bio:
     output: true
     order:
+      - Kate Yeo.md
       - Terese Teoh.md
       - Dian Anderson.md
       - Liang Lei.md
