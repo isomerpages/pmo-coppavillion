@@ -2,4 +2,5 @@ collections:
   partners-bio:
     output: true
     order:
+      - Swati Mandloi.md
       - Dian Anderson.md
