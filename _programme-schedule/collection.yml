@@ -2,15 +2,15 @@ collections:
   programme-schedule:
     output: true
     order:
-      - 18 Nov (Fri) Partners' Appreciation Day.md
-      - 17 Nov (Thu) Partnership Day.md
-      - 16 Nov (Wed) Nature based Solutions Day.md
-      - 15 Nov (Tue) Energy Day.md
-      - 14 Nov (Mon) Water and Gender Day.md
-      - 11 Nov (Fri) Decarbonisation Day.md
-      - 10 Nov (Thu) Transport and Youth Day.md
       - 6 Nov (Sun) Youth Day and Pavilion Launch Event.md
       - 7 Nov (Mon) Cities and Built Environment Day.md
       - 8 Nov (Tue) Finance Day.md
       - 9 Nov (Wed) Finance Day.md
+      - 10 Nov (Thu) Transport and Youth Day.md
+      - 11 Nov (Fri) Decarbonisation Day.md
       - 12 Nov (Sat) Adaptation, Agriculture and Food Day.md
+      - 14 Nov (Mon) Water and Gender Day.md
+      - 15 Nov (Tue) Energy Day.md
+      - 16 Nov (Wed) Nature based Solutions Day.md
+      - 17 Nov (Thu) Partnership Day.md
+      - 18 Nov (Fri) Partners' Appreciation Day.md
