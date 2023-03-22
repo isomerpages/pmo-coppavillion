@@ -2,6 +2,7 @@ collections:
   daily-showcase:
     output: true
     order:
+      - 14 Nov (Mon)/.keep
       - 12 Nov (Sat)/.keep
       - 11 Nov (Fri)/.keep
       - 10 Nov (Thu)/.keep
