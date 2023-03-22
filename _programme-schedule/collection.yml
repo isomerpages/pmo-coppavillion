@@ -2,6 +2,7 @@ collections:
   programme-schedule:
     output: true
     order:
+      - 11 Nov (Fri) Decarbonisation Day.md
       - 10 Nov (Thu) Transport and Youth Day.md
       - 6 Nov (Sun) Youth Day and Pavilion Launch Event.md
       - 7 Nov (Mon) Cities and Built Environment Day.md
