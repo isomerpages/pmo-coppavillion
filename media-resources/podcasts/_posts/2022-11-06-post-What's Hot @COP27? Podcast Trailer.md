@@ -6,11 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
-[insert image]
+[![](https://www.cop-pavilion.gov.sg/Images/thm-podcast-ep1.webp)](https://open.spotify.com/episode/1CrOQj8jAvEsxAjrehJr1h?si=JmYWouXmTWeViqhnzS-qiw)
 
-[insert link]
+[Click to listen](https://open.spotify.com/episode/4kaKwrH0U1S58bEBrxh4lo)
 
-About:
+**About:**
 
 Climate change threatens all that makes life worth living on this planet and it is under threat. Have you ever wondered what countries are doing about it?
 
@@ -18,6 +18,6 @@ Singapore Youth for Climate Action members Cheryl Lee and Swati Mandloi will tal
 
 Podcast produced by Singapore Youth for Climate Action.
 
-Episode Description:
+**Episode Description:**
 
-Welcome to a mini-podcast series by Singapore Youth for Climate Action hosted by Swati Mandloi and Cheryl Lee. In this podcast series, we will be talking about the 2022 United Nations Climate Change Conference, more commonly referred to as COP27. Tune in from the 7th to the 19th of November to listen to key updates from the conference. Follow us on @SYClimateAction to know more!
+Welcome to a mini-podcast series by Singapore Youth for Climate Action hosted by Swati Mandloi and Cheryl Lee. In this podcast series, we will be talking about the 2022 United Nations Climate Change Conference, more commonly referred to as COP27. Tune in from the 7th to the 19th of November to listen to key updates from the conference. Follow us on [@SYClimateAction](https://www.instagram.com/syclimateaction/?hl=en) to know more!
