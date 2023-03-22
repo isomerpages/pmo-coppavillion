@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Programme Schedule
-    url: /programme-schedule
+    collection: programme-schedule
   - title: Green Initiatives
     collection: green-initiatives
   - title: Daily Showcase
