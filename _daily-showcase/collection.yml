@@ -2,5 +2,6 @@ collections:
   daily-showcase:
     output: true
     order:
+      - 6 Nov/.keep
       - Hub of Green Possibilities.md
       - Keep Calm and Love Our Planet Campaign.md
