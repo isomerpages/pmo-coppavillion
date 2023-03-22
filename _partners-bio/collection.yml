@@ -2,5 +2,6 @@ collections:
   partners-bio:
     output: true
     order:
+      - Zihan Xuan.md
       - Swati Mandloi.md
       - Dian Anderson.md
