@@ -2,6 +2,7 @@ collections:
   daily-showcase:
     output: true
     order:
+      - 8 & 9 Nov/.keep
       - Overview.md
       - 6 Nov/.keep
       - 6 Nov/Keep Calm and Love Our Planet Campaign.md
