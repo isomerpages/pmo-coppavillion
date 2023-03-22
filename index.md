@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Programme Schedule
           description: ""
-          url: /programme-schedule
+          url: /programme-schedule/6-nov-sun-youth-day-and-pavilion-launch-event/
         - title: Green Initiatives
           description: ""
           url: /green-initiatives/mitigation/solar-panel-deployment/
