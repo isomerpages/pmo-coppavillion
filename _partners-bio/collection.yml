@@ -2,6 +2,7 @@ collections:
   partners-bio:
     output: true
     order:
+      - Rishika Selvan.md
       - Liang Lei.md
       - Zihan Xuan.md
       - Swati Mandloi.md
