@@ -2,17 +2,17 @@ collections:
   daily-showcase:
     output: true
     order:
-      - 17 Nov (Thu)/.keep
-      - 16 Nov (Wed)/.keep
-      - 15 Nov (Tue)/.keep
-      - 14 Nov (Mon)/.keep
-      - 12 Nov (Sat)/.keep
-      - 11 Nov (Fri)/.keep
-      - 10 Nov (Thu)/.keep
-      - 8 & 9 Nov (Tue & Wed)/.keep
       - Overview.md
       - 6 Nov (Sun)/.keep
       - 6 Nov (Sun)/Keep Calm and Love Our Planet Campaign.md
       - 6 Nov (Sun)/My Tree House.md
       - 7 Nov (Mon)/.keep
       - 7 Nov (Mon)/Future AV Enabled Streets in a City in Nature.md
+      - 8 & 9 Nov (Tue & Wed)/.keep
+      - 10 Nov (Thu)/.keep
+      - 11 Nov (Fri)/.keep
+      - 12 Nov (Sat)/.keep
+      - 14 Nov (Mon)/.keep
+      - 15 Nov (Tue)/.keep
+      - 16 Nov (Wed)/.keep
+      - 17 Nov (Thu)/.keep
