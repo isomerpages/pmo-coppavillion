@@ -1,0 +1,4 @@
+collections:
+  daily-showcase:
+    output: true
+    order: []
