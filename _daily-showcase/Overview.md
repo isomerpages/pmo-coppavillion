@@ -9,7 +9,7 @@ As a low-lying city-state with an open economy, Singapore is particularly vulner
 
 Discover the partnerships and the initiatives that are leveraging Singapore as a sustainability hub to address today's most pressing climate change challenges.
 
-
+[to check with Isomer on Expandable/Collapsible Section]
 
 #### 6 NOV (SUN) - YOUTH AND PAVILION LAUNCH EVENT
 
