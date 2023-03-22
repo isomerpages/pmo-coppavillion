@@ -2,6 +2,7 @@ collections:
   programme-schedule:
     output: true
     order:
+      - 9 Nov (Wed) Finance Day.md
       - 8 Nov (Tue) Finance Day.md
       - 12 Nov (Sat) Adaptation, Agriculture and Food Day.md
       - 7 Nov (Mon) Cities and Built Environment Day.md
