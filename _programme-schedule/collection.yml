@@ -2,6 +2,7 @@ collections:
   programme-schedule:
     output: true
     order:
+      - 17 Nov (Thu) Partnership Day.md
       - 16 Nov (Wed) Nature based Solutions Day.md
       - 15 Nov (Tue) Energy Day.md
       - 14 Nov (Mon) Water and Gender Day.md
