@@ -1,4 +1,5 @@
 collections:
   daily-showcase:
     output: true
-    order: []
+    order:
+      - Hub of Green Possibilities.md
