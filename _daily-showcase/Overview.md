@@ -17,7 +17,7 @@ Discover the partnerships and the initiatives that are leveraging Singapore as a
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Simple</label>
     <div>
-      <p>[KEEP CALM AND LOVE OUR PLANET CAMPAIGN](/daily-showcase/6-nov/keep-calm-and-love-our-planet-campaign/)</p>
+      <p><a href="/daily-showcase/6-nov/keep-calm-and-love-our-planet-campaign/"> KEEP CALM AND LOVE OUR PLANET CAMPAIGN</a></p>
     </div>
  </li>  
   <li>
