@@ -11,62 +11,23 @@ Discover the partnerships and the initiatives that are leveraging Singapore as a
 
 [to check with Isomer on Expandable/Collapsible Section]
 
-Testing 
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
-    <div>
-      <p>This is a simple one line item</p>
-    </div>
- </li>  
-  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Multi-line Block</label>
-    <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
-    </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">Multi-line Folded</label>
-    <div>
-      <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
-      </p>
-    </div>
-  </li>
-  <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">Ordered List</label>
-    <div>
-      <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ol>
-    </div>
-  </li>
-    
+   
   <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">Unordered List</label>
+    <label for="accordion5">6 NOV (SUN) - YOUTH AND PAVILION LAUNCH EVENT</label>
     <div>
       <ul>
-        <li>Item 1</li>
+        <li>[KEEP CALM AND LOVE OUR PLANET CAMPAIGN (/daily-showcase/keep-calm-and-love-our-planet-campaign/)</li>
         <li>Item 2</li>
         <li>Item 3</li>
       </ul>
     </div>
   </li>
-</ul>
 
 
 
-#### 6 NOV (SUN) - YOUTH AND PAVILION LAUNCH EVENT
+
+#### 6 NOV (SUN) - YOUTH AND PAVILION LAUNCH EVENT
 
 
 ------------------------------------------------
@@ -94,7 +55,7 @@ Youth-led collective action in Singapore supports the Whole of Nation approach t
 *   [#WEGOTTHIS](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [ENVIRONMENTAL REVIEWS FOR SMES](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 
-#### 7 NOV (MON) - CITIES AND BUILT ENVIRONMENT DAY
+#### 7 NOV (MON)&nbsp;- CITIES AND BUILT ENVIRONMENT DAY
 
 
 ------------------------------------------------
@@ -126,11 +87,11 @@ Climate-ready buildings and infrastructure set the foundation for a liveable, su
 *   [OASIA HOTEL DOWNTOWN, SINGAPORE](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [PARKROYAL COLLECTION PICKERING, SINGAPORE](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [SKYVILLE @ DAWSON, SINGAPORE](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
-*   [ALTERNATIVE SAND FROM CO2 & WASTE MATERIALS](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
+*   [ALTERNATIVE SAND FROM CO2 &amp; WASTE MATERIALS](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [DRONE INSPECTION SYSTEM FOR BUILDING FAÇADES](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [INTEGRATED ENVIRONMENTAL MODELLER](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 
-#### 8 & 9 NOV (TUE AND WED) FINANCE DAY
+#### 8 &amp; 9 NOV (TUE AND WED)&nbsp;FINANCE DAY
 
 
 ---------------------------------------
@@ -154,7 +115,7 @@ Singapore is a vibrant sustainable finance centre with innovative climate financ
 *   [U-SOLAR](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [LIONHEART FARMS](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 
-#### 10 NOV (THU) TRANSPORT AND YOUTH DAY
+#### 10 NOV (THU)&nbsp;TRANSPORT AND YOUTH DAY
 
 
 ----------------------------------------
@@ -175,14 +136,14 @@ The Government and industry are working together towards more sustainable transp
 *   [TUAS PORT ECOSYSTEM](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [SUSTAINABLE AVIATION FUEL (SAF) PILOT BY CIVIL AVIATION AUTHORITY OF SINGAPORE, SINGAPORE AIRLINES AND TEMASEK](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 
-#### 11 NOV (FRI) DECARBONISATION DAY
+#### 11 NOV (FRI)&nbsp;DECARBONISATION DAY
 
 
 ------------------------------------
 
 To achieve net zero emissions by 2050 and limit global warming based on the Paris Agreement, Singapore is implementing nationwide climate change policies, investing in decarbonisation technologies and strengthening international cooperation.
 
-*   [ALTERNATIVE SAND FROM CO2 & WASTE MATERIALS](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
+*   [ALTERNATIVE SAND FROM CO2 &amp; WASTE MATERIALS](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [DRONE INSPECTION SYSTEM FOR BUILDING FAÇADES](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [INTEGRATED ENVIRONMENTAL MODELLER](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [SUSTAINABILITY TOOLS](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
@@ -191,9 +152,9 @@ To achieve net zero emissions by 2050 and limit global warming based on the Pari
 *   [CLIMATE TRAILBLAZERS: DECARBONISING TRANSPORT](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [FORGING PATHWAYS TO DECARBONISATION](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [INVESTING TO REALISE THE WORLD WE WANT](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
-*   [SMART CARBON MEASUREMENT & MANAGEMENT](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
-*   [A PEOPLE & PLANET POSITIVE GLOBAL FASHION BRAND](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
-*   [SOUTHEAST ASIA’S FIRST NET ZERO F&B STORE](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
+*   [SMART CARBON MEASUREMENT &amp; MANAGEMENT](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
+*   [A PEOPLE &amp; PLANET POSITIVE GLOBAL FASHION BRAND](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
+*   [SOUTHEAST ASIA’S FIRST NET ZERO F&amp;B STORE](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [THE FIRST EVER B-CORP CERTIFIED SKATE SHOE BRAND](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [DECARBONISATION THROUGH DIGITALISATION](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [CARBON SEQUESTRATION WITH JATROPHA](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
@@ -201,7 +162,7 @@ To achieve net zero emissions by 2050 and limit global warming based on the Pari
 *   [VOLTNET](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [TREATING POULTRY MANURE WITH PYROLYSIS](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 
-#### 12 NOV (SAT) ADAPTATION, AGRICULTURE AND FOOD DAY
+#### 12 NOV (SAT)&nbsp;ADAPTATION, AGRICULTURE AND FOOD DAY
 
 
 -----------------------------------------------------
@@ -227,7 +188,7 @@ Singapore has a multi-pronged approach to food security and aspires to be a fore
 *   [PROJECT WOLBACHIA – SINGAPORE A NOVEL TOOL FOR DENGUE CONTROL](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [COOLING SINGAPORE 2.0 - BUILDING A DIGITAL URBAN CLIMATE TWIN](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 
-#### 14 NOV (MON) WATER AND GENDER DAY
+#### 14 NOV (MON)&nbsp;WATER AND GENDER DAY
 
 
 -------------------------------------
@@ -257,12 +218,12 @@ Singapore leverages technology and innovations in the local and international wa
 *   [ARTIFICIAL REEF PROTOTYPE PROJECT ON SISTERS’ ISLANDS, SINGAPORE](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [WATER DAY – BLUE IS THE NEW GREEN](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [CLEAN AND SAFE DRINKING WATER FOR EVERYONE](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
-*   [SMART TREATMENT & REMEDIATION: DYES AND TEXTILES](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
+*   [SMART TREATMENT &amp; REMEDIATION: DYES AND TEXTILES](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [SMART WATER: ALGAE MONITORING FOR ECOLOGY AND AQUACULTURE](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [SMART WATER: MICROBIAL MONITORING FOR DRINKING WATER AND FOOD](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [SMART WATER: WATER QUALITY BIOMONITORING FOR CITIES](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 
-#### 15 NOV (TUE) ENERGY DAY
+#### 15 NOV (TUE)&nbsp;ENERGY DAY
 
 
 ---------------------------
@@ -279,7 +240,7 @@ As part of our decarbonisation journey and overcoming energy challenges, Singapo
 *   [ADVANCING THE ENERGY TRANSITION](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [TREATING POULTRY MANURE WITH PYROLYSIS](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 
-#### 16 NOV (WED) NATURE-BASED SOLUTION DAY
+#### 16 NOV (WED)&nbsp;NATURE-BASED SOLUTION DAY
 
 
 ------------------------------------------
@@ -299,7 +260,7 @@ Well-functioning international carbon markets for high quality carbon credits ca
 *   [LIONHEART FARMS](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 *   [ELECTRIC VEHICLE ACCELERATOR](https://www.cop-pavilion.gov.sg/Site/DailyShowcase#)
 
-#### 17 NOV (THU) PARTNERSHIP DAY
+#### 17 NOV (THU)&nbsp;PARTNERSHIP DAY
 
 
 --------------------------------
