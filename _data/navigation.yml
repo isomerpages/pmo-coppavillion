@@ -1,0 +1,12 @@
+logo: /images/PMO SG Logo.png
+links:
+  - title: Programme Schedule
+    collection: programme-schedule
+  - title: Green Initiatives
+    collection: green-initiatives
+  - title: Daily Showcase
+    collection: daily-showcase
+  - title: Media Resources
+    resource_room: true
+  - title: Our Partners
+    url: /our-partners
